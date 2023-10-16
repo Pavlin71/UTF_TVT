@@ -1,0 +1,15 @@
+#include "taw_vd\GUI.h"
+//  Подробнее о переменных ТУТ
+//  https://community.bistudio.com/wiki/Description.ext
+
+saving = 0;
+respawn = 0;
+respawnButton = 0;
+disabledAI = 0;
+enableDebugConsole = 1;
+
+
+class CfgFunctions
+{
+    #include "taw_vd\CfgFunctions.hpp"
+};
