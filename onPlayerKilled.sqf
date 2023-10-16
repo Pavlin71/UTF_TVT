@@ -1,0 +1,1 @@
+["Initialize", [player]] call BIS_fnc_EGSpectator;
